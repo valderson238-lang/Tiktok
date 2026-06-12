@@ -488,7 +488,7 @@ export default function App() {
             </span>
             <h2 className="font-display font-extrabold text-4xl md:text-6xl text-white tracking-tight leading-tight">
               A Escolha é Sua:<br />
-              <span className="bg-gradient-to-r from-brand-pink via-white to-brand-cyan bg-clip-text text-transparent italic pr-8 block w-full text-center select-none">Assistir ou Construir?{" "}</span>
+              <span className="bg-gradient-to-r from-brand-pink via-white to-brand-cyan bg-clip-text text-transparent italic pr-4">Assistir ou Construir?</span>
 
             <p className="text-zinc-400 text-sm md:text-base max-w-xl mx-auto">
               Garanta imediatamente o seu e-book O Código TikTok Dark.
