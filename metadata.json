@@ -1,0 +1,6 @@
+{
+  "name": "Landing Page - O Código TikTok Dark",
+  "description": "Uma landing page de alta conversão para o ebook O Código TikTok Dark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
